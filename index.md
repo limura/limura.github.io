@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# limura@github
 
-You can use the [editor on GitHub](https://github.com/limura/limura.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+飯村が個人で作っている物を GitHub さんに管理してもらっています。
+それらの物のうち、皆でも使えそうな物はそれぞれのプラットフォームで公開しいます。(´・ω・`)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 作っていてそれぞれのプラットフォームで公開しているもの
 
-### Markdown
+- [ことせかい](https://github.com/limura/NovelSpeaker) / [AppStore](https://apps.apple.com/jp/app/%E3%81%93%E3%81%A8%E3%81%9B%E3%81%8B%E3%81%84/id914344185)
+- [CaptionSpeaker](https://github.com/limura/CaptionSpeaker) / [Chrome Web Store](https://chrome.google.com/webstore/detail/captionspeaker/infafaffjndfcflcoemolnggghgoodce)
+- [TabSpeech](https://github.com/limura/TabSpeech) / [Chrome Web Store](https://chrome.google.com/webstore/detail/tabspeech/ccojlmmbakjcoddbepmmogiobbmmhmjc)
+- [Just Amazon (jp)](https://github.com/limura/JustAmazonCoJP) / [Chrome Web Store](https://chrome.google.com/webstore/detail/just-amazon-jp/onlpmlkjcaeiajmonbeioinniidpiooa)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+上記以外のものは[このあたり](https://github.com/limura?tab=repositories)から手繰ってください。
 
-```markdown
-Syntax highlighted code block
+# 寄付による支援
 
-# Header 1
-## Header 2
-### Header 3
+寄付による支援を受け付けています。
 
-- Bulleted
-- List
+- [GitHub spnsors](https://github.com/sponsors/limura)
+- [Amazon 欲しい物リスト](http://amzn.asia/5arphrL)
 
-1. Numbered
-2. List
+### 連絡先
 
-**Bold** and _Italic_ and `Code` text
+私個人へのコンタクトは limuraproducts @ gmail.com にお願いします。
+なお、個別のプロダクト(例えば上記のリストの中の一つのアプリケーション)についてはそれぞれのGitHubページ又はそれぞれのストアのお問い合わせ機能(又はリンク)よりお問い合わせください。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/limura/limura.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
