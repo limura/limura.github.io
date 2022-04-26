@@ -5,7 +5,7 @@
 
 ## 作っていてそれぞれのプラットフォームで公開しているもの
 
-- [ことせかい](https://github.com/limura/NovelSpeaker) / [AppStore](https://apps.apple.com/jp/app/%E3%81%93%E3%81%A8%E3%81%9B%E3%81%8B%E3%81%84/id914344185)
+- [ことせかい](https://github.com/limura/NovelSpeaker) / [AppStore](https://apps.apple.com/jp/app/%E3%81%93%E3%81%A8%E3%81%9B%E3%81%8B%E3%81%84/id914344185) / [サポートサイト](https://limura.github.io/NovelSpeaker/)
 - [CaptionSpeaker](https://github.com/limura/CaptionSpeaker) / [Chrome Web Store](https://chrome.google.com/webstore/detail/captionspeaker/infafaffjndfcflcoemolnggghgoodce)
 - [TabSpeech](https://github.com/limura/TabSpeech) / [Chrome Web Store](https://chrome.google.com/webstore/detail/tabspeech/ccojlmmbakjcoddbepmmogiobbmmhmjc)
 - [Just Amazon (jp)](https://github.com/limura/JustAmazonCoJP) / [Chrome Web Store](https://chrome.google.com/webstore/detail/just-amazon-jp/onlpmlkjcaeiajmonbeioinniidpiooa)
